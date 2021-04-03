@@ -1,2 +1,2 @@
 # getOctoPrintDataWithRest
-getting progress data and status of the printer using rest calls
+getting progress data and status of the 3D printer using rest calls
